@@ -14,6 +14,8 @@ Update the table (today you need to fill at least first two columns)
 | Kozlowski Lukasz | [lukasz-kozlowski](https://github.com/lukasz-kozlowski) | TBA | all students |
 | Lukasik Anna | [anna-lukasik](https://github.com/Aniczk) | ? | ? |
 | Owczarek Patrycja | [patrycja-owczarek](https://github.com/OwczarekP) | ? | ? |
+| Kokot Damian | [damian-kokot](https://github.com/damkotdo) | ? | ? |
+
 
 ### Task 2
 Create the directory for your project with README.md file in <b>'projects'</b> directory where you will describe the subject, 
