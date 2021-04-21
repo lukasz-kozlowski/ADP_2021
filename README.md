@@ -15,6 +15,7 @@ Update the table (today you need to fill at least first two columns)
 | Lukasik Anna | [anna-lukasik](https://github.com/Aniczk) | ? | ? |
 | Owczarek Patrycja | [patrycja-owczarek](https://github.com/OwczarekP) | ? | ? |
 | Kokot Damian | [damian-kokot](https://github.com/damkotdo) | ? | ? |
+| Jurzysta Barbara | [barbara-jurzysta](https://github.com/barbarajurzysta) | ? | ? |
 
 
 ### Task 2
