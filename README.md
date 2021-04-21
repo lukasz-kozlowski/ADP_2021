@@ -15,4 +15,4 @@ Update the table (today you need to fill at least first two columns)
 | ? | ? | ? | ? |
 
 ### Task 2
-Create README.md for your project where you will describe the subject, mambers and document the progress
+Create README.md for your project in <b>'Project'</b> directory where you will describe the subject, mambers and document the progress
