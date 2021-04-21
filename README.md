@@ -1,5 +1,5 @@
 # ADP_2021
-### Taks 1
+### Task 1
 <ol type="a">
   <li>install git</li>
   <li>sign up (new users) or sign in (old users)</li>
