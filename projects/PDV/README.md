@@ -1,3 +1,5 @@
+# PDV (Protein Data Vizualization) project
+
 # Members:
 
 Anna Lukasik, Damian Kokot, Jacek Wolf
