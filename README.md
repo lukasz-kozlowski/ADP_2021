@@ -13,12 +13,15 @@ Update the table (today you need to fill at least first two columns)
 | --- | --- | --- | --- |
 | Kozlowski Lukasz | [lukasz-kozlowski](https://github.com/lukasz-kozlowski) | TBA | all students |
 | Lukasik Anna | [anna-lukasik](https://github.com/Aniczk) | PDV | Kokot Damian, Wolf Jacek |
-| Owczarek Patrycja | [patrycja-owczarek](https://github.com/OwczarekP) | ? | ? |
+| Owczarek Patrycja | [patrycja-owczarek](https://github.com/OwczarekP) | PARS | Julia Gołębiowska, Adam Cicherski |
 | Kokot Damian | [damian-kokot](https://github.com/damkotdo) | PDV  | Lukasik Anna, Wolf Jacek |
 | Jurzysta Barbara | [barbara-jurzysta](https://github.com/barbarajurzysta) | ? | ? |
 | Rymuza Julia | [julia-rymuza](https://github.com/Julia820) | ? | ? |
 | Duda Paulina | [paulina-duda](https://github.com/pd410668) | ? | ? |
 | Ewa Kizling | [ewa-kizling](https://github.com/EwaKiz) | ? | ? |
+| Gołębiowska Julia | [julia-golebiowska](https://github.com/JuliaGol) | PARS | Owczarek Patrycja, Adam Cicherski |
+
+
 
 ### Task 2
 Create the directory for your project with README.md file in <b>'projects'</b> directory where you will describe the subject, 
