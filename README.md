@@ -18,6 +18,7 @@ Update the table (today you need to fill at least first two columns)
 | Jurzysta Barbara | [barbara-jurzysta](https://github.com/barbarajurzysta) | ? | ? |
 | Rymuza Julia | [julia-rymuza](https://github.com/Julia820) | ? | ? |
 | Duda Paulina | [paulina-duda](https://github.com/pd410668) | ? | ? |
+| Jakub Otreba | [jakub-otreba](https://github.com/jakubotreba) | ROK | Ewa Kizling, Julia Rymuza |
 | Ewa Kizling | [ewa-kizling](https://github.com/EwaKiz) | ROK | Otreba Jakub Rymuza Julia |
 
 ### Task 2
