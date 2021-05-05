@@ -1,7 +1,7 @@
-#Protein recognizability project
-#Members:
+# Protein recognizability project
+# Members:
 Jakub Otręba, Ewa Kizling, Julia Rymuza
-#Description:
+# Description:
 We want to use IsoSpecPy, which is a fine structure isotopic calculator. 
 It can reveal for you a given fraction of the isotopic distribution of mass for a given molecule 
 based only on its molecular composition. Mass is not unique due to the presence of isotopes that occur 
