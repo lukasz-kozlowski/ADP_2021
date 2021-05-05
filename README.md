@@ -12,9 +12,9 @@ Update the table (today you need to fill at least first two columns)
 | Surname Name | URL (github) | Project acronim | Other members |
 | --- | --- | --- | --- |
 | Kozlowski Lukasz | [lukasz-kozlowski](https://github.com/lukasz-kozlowski) | TBA | all students |
-| Lukasik Anna | [anna-lukasik](https://github.com/Aniczk) | PDV | Kokot Damian, Wolf Jacek |
+| Lukasik Anna | [anna-lukasik](https://github.com/Aniczk) | PDV | Kokot Damian, Wolf Jacek, Duda Paulina|
 | Owczarek Patrycja | [patrycja-owczarek](https://github.com/OwczarekP) | PARS | Julia Gołębiowska, Adam Cicherski |
-| Kokot Damian | [damian-kokot](https://github.com/damkotdo) | PDV  | Lukasik Anna, Wolf Jacek |
+| Kokot Damian | [damian-kokot](https://github.com/damkotdo) | PDV  | Lukasik Anna, Wolf Jacek, Duda Paulina |
 | Jurzysta Barbara | [barbara-jurzysta](https://github.com/barbarajurzysta) | ROCS | Adriana Bukała, Konrad Łukaszyk, Aleksandra Możwiłło |
 | Rymuza Julia | [julia-rymuza](https://github.com/Julia820) | ? | ? |
 | Duda Paulina | [paulina-duda](https://github.com/pd410668) | PDV | Lukasik Anna, Wolf Jacek, Kokot Damian |
@@ -22,7 +22,6 @@ Update the table (today you need to fill at least first two columns)
 | Jakub Otreba | [jakub-otreba](https://github.com/jakubotreba) | ROK | Ewa Kizling, Julia Rymuza |
 | Kizling Ewa | [ewa-kizling](https://github.com/EwaKiz) | ROK | Otreba Jakub Rymuza Julia |
 | Aleksandra Możwiłło | [aleksandra-mozwillo](https://github.com/mozewillo) | ROCS | Barbara Jurzysta, Adriana Bukała, Konrad Łukaszyk |
-| Łukaszyk Konrad | [lukaszyk-konrad](https://github.com/kjlukaszyk) | ROCS | Barbara Jurzysta, Adriana Bukała, Aleksandra Możwiłło |
 
 
 ### Task 2
