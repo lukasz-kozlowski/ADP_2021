@@ -22,6 +22,7 @@ Update the table (today you need to fill at least first two columns)
 | Jakub Otreba | [jakub-otreba](https://github.com/jakubotreba) | ROK | Ewa Kizling, Julia Rymuza |
 | Kizling Ewa | [ewa-kizling](https://github.com/EwaKiz) | ROK | Otreba Jakub Rymuza Julia |
 | Aleksandra Możwiłło | [aleksandra-mozwillo](https://github.com/mozewillo) | ROCS | Barbara Jurzysta, Adriana Bukała, Konrad Łukaszyk |
+| Łukaszyk Konrad | [lukaszyk-konrad](https://github.com/kjlukaszyk) | ROCS | Barbara Jurzysta, Adriana Bukała, Aleksandra Możwiłło |
 
 
 ### Task 2
