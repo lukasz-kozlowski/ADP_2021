@@ -21,6 +21,7 @@ Update the table (today you need to fill at least first two columns)
 | Jakub Otreba | [jakub-otreba](https://github.com/jakubotreba) | ROK | Ewa Kizling, Julia Rymuza |
 | Kizling Ewa | [ewa-kizling](https://github.com/EwaKiz) | ROK | Otreba Jakub Rymuza Julia |
 
+
 ### Task 2
 Create the directory for your project with README.md file in <b>'projects'</b> directory where you will describe the subject, 
 list the members and document the progress.
