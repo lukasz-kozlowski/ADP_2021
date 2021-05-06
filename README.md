@@ -23,6 +23,7 @@ Update the table (today you need to fill at least first two columns)
 | Kizling Ewa | [ewa-kizling](https://github.com/EwaKiz) | ROK | Otreba Jakub Rymuza Julia |
 | Aleksandra Możwiłło | [aleksandra-mozwillo](https://github.com/mozewillo) | ROCS | Barbara Jurzysta, Adriana Bukała, Konrad Łukaszyk |
 | Łukaszyk Konrad | [lukaszyk-konrad](https://github.com/kjlukaszyk) | ROCS | Barbara Jurzysta, Adriana Bukała, Aleksandra Możwiłło |
+| Wolf Jacek | [wolf-jacek](https://github.com/jack-w2) | PDV | Lukasik Anna, Duda Paulina, Kokot Damian |
 
 
 ### Task 2
