@@ -14,16 +14,16 @@ Update the table (today you need to fill at least first two columns)
 | Kozlowski Lukasz | [lukasz-kozlowski](https://github.com/lukasz-kozlowski) | TBA | all students |
 | Lukasik Anna | [anna-lukasik](https://github.com/Aniczk) | [PDV](https://github.com/Aniczk/PVD) | Kokot Damian, Wolf Jacek, Duda Paulina|
 | Owczarek Patrycja | [patrycja-owczarek](https://github.com/OwczarekP) | [PARS](https://github.com/JuliaGol/PARS) | Julia Gołębiowska, Adam Cicherski |
-| Kokot Damian | [damian-kokot](https://github.com/damkotdo) | PDV  | Lukasik Anna, Wolf Jacek, Duda Paulina |
+| Kokot Damian | [damian-kokot](https://github.com/damkotdo) | [PDV](https://github.com/Aniczk/PVD)  | Lukasik Anna, Wolf Jacek, Duda Paulina |
 | Jurzysta Barbara | [barbara-jurzysta](https://github.com/barbarajurzysta) | ROCS | Adriana Bukała, Konrad Łukaszyk, Aleksandra Możwiłło |
-| Rymuza Julia | [julia-rymuza](https://github.com/Julia820) | ROK | Ewa Kizling,Otreba Jakub |
+| Rymuza Julia | [julia-rymuza](https://github.com/Julia820) | [ROK](https://github.com/jakubotreba/ROK) | Ewa Kizling,Otreba Jakub |
 | Duda Paulina | [paulina-duda](https://github.com/pd410668) | PDV(https://github.com/Aniczk/PVD) | Lukasik Anna, Wolf Jacek, Kokot Damian |
 | Gołębiowska Julia | [julia-golebiowska](https://github.com/JuliaGol) | [PARS](https://github.com/JuliaGol/PARS)| Owczarek Patrycja, Adam Cicherski |
 | Jakub Otreba | [jakub-otreba](https://github.com/jakubotreba) | [ROK](https://github.com/jakubotreba/ROK) | Ewa Kizling, Julia Rymuza |
-| Kizling Ewa | [ewa-kizling](https://github.com/EwaKiz) | ROK | Otreba Jakub Rymuza Julia |
+| Kizling Ewa | [ewa-kizling](https://github.com/EwaKiz) | [ROK](https://github.com/jakubotreba/ROK) | Otreba Jakub Rymuza Julia |
 | Aleksandra Możwiłło | [aleksandra-mozwillo](https://github.com/mozewillo) | ROCS | Barbara Jurzysta, Adriana Bukała, Konrad Łukaszyk |
 | Łukaszyk Konrad | [lukaszyk-konrad](https://github.com/kjlukaszyk) | ROCS | Barbara Jurzysta, Adriana Bukała, Aleksandra Możwiłło |
-| Wolf Jacek | [wolf-jacek](https://github.com/jack-w2) | PDV | Lukasik Anna, Duda Paulina, Kokot Damian |
+| Wolf Jacek | [wolf-jacek](https://github.com/jack-w2) | PDV(https://github.com/Aniczk/PVD) | Lukasik Anna, Duda Paulina, Kokot Damian |
 | Adam Cicherski | [adam-cicherski](https://github.com/xadam97x) | [PARS](https://github.com/JuliaGol/PARS)| Julia Gołębiowska, Owczarek Patrycja |
 
 
