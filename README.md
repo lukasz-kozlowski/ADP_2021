@@ -17,7 +17,7 @@ Update the table (today you need to fill at least first two columns)
 | Kokot Damian | [damian-kokot](https://github.com/damkotdo) | PDV  | Lukasik Anna, Wolf Jacek, Duda Paulina |
 | Jurzysta Barbara | [barbara-jurzysta](https://github.com/barbarajurzysta) | ROCS | Adriana Bukała, Konrad Łukaszyk, Aleksandra Możwiłło |
 | Rymuza Julia | [julia-rymuza](https://github.com/Julia820) | ROK | Ewa Kizling,Otreba Jakub |
-| Duda Paulina | [paulina-duda](https://github.com/pd410668) | PDV | Lukasik Anna, Wolf Jacek, Kokot Damian |
+| Duda Paulina | [paulina-duda](https://github.com/pd410668) | PDV(https://github.com/Aniczk/PVD) | Lukasik Anna, Wolf Jacek, Kokot Damian |
 | Gołębiowska Julia | [julia-golebiowska](https://github.com/JuliaGol) | PARS | Owczarek Patrycja, Adam Cicherski |
 | Jakub Otreba | [jakub-otreba](https://github.com/jakubotreba) | ROK | Ewa Kizling, Julia Rymuza |
 | Kizling Ewa | [ewa-kizling](https://github.com/EwaKiz) | ROK | Otreba Jakub Rymuza Julia |
