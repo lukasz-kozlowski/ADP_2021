@@ -2,7 +2,7 @@
 
 # Members:
 
-Anna Lukasik, Damian Kokot, Jacek Wolf
+Anna Lukasik, Damian Kokot, Jacek Wolf, Paulina Duda
 
 # Description
 
